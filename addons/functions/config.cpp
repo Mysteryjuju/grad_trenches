@@ -12,7 +12,7 @@ class CfgPatches {
     };
 };
 
-#include <Cfg3DEN.hpp>
+//#include <Cfg3DEN.hpp>
 #include <CfgEventHandlers.hpp>
 #include <CfgVehicles.hpp>
 #include <CfgWorldsTextures.hpp>

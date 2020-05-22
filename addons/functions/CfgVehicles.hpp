@@ -105,8 +105,8 @@ class CfgVehicles {
     class ACE_envelope_small: BagFence_base_F {
         GVAR(offset) = 0.58;
         ace_trenches_placementData[] = {8,1.1,0};
-        editorCategory = "EdCat_Things";
-        editorSubcategory = "EdSubcat_Military";
+        //editorCategory = "EdCat_Things";
+        //editorSubcategory = "EdSubcat_Military";
         GVAR(isTrench) = 1;
         ace_trenches_diggingDuration = QGVAR(smallEnvelopeDigTime);
 
@@ -118,8 +118,8 @@ class CfgVehicles {
     };
     class ACE_envelope_big: BagFence_base_F {
         GVAR(offset) = 1.5;
-        editorCategory = "EdCat_Things";
-        editorSubcategory = "EdSubcat_Military";
+        //editorCategory = "EdCat_Things";
+        //editorSubcategory = "EdSubcat_Military";
         GVAR(isTrench) = 1;
         ace_trenches_diggingDuration = QGVAR(bigEnvelopeDigTime);
 
@@ -149,8 +149,8 @@ class CfgVehicles {
         ace_trenches_placementData[] = {8,1.1,0.20};
         ace_trenches_grassCuttingPoints[] = {{-1.5,-1,0},{1.5,-1,0}};
 
-        editorCategory = "EdCat_Things";
-        editorSubcategory = "EdSubcat_Military";
+        //editorCategory = "EdCat_Things";
+        //editorSubcategory = "EdSubcat_Military";
 
         class CamouflagePositions1 {
             a[] = {4.4, 0, 3};
@@ -178,8 +178,8 @@ class CfgVehicles {
         ace_trenches_placementData[] = {10,1.1,0.20};
         ace_trenches_grassCuttingPoints[] = {{-1.5,-1,0},{1.5,-1,0}};
 
-        editorCategory = "EdCat_Things";
-        editorSubcategory = "EdSubcat_Military";
+        //editorCategory = "EdCat_Things";
+        //editorSubcategory = "EdSubcat_Military";
 
         class CamouflagePositions1 {
             a[] = {3.9, 2.5, 3.5};
@@ -206,8 +206,8 @@ class CfgVehicles {
         ace_trenches_placementData[] = {10,1.1,0.20};
         ace_trenches_grassCuttingPoints[] = {{-1.5,-1,0},{1.5,-1,0}};
 
-        editorCategory = "EdCat_Things";
-        editorSubcategory = "EdSubcat_Military";
+        //editorCategory = "EdCat_Things";
+        //editorSubcategory = "EdSubcat_Military";
 
         class CamouflagePositions1 {
             a[] = {1.7, 0.7, 3.1};
@@ -231,8 +231,8 @@ class CfgVehicles {
         ace_trenches_placementData[] = {10,2,0.20};
         ace_trenches_grassCuttingPoints[] = {{-1.5,-1,0},{1.5,-1,0}};
 
-        editorCategory = "EdCat_Things";
-        editorSubcategory = "EdSubcat_Military";
+        //editorCategory = "EdCat_Things";
+        //editorSubcategory = "EdSubcat_Military";
 
         class CamouflagePositions1 {
             a[] = {6.7, 0, 3.2};
